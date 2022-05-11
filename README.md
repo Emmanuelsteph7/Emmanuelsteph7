@@ -10,23 +10,19 @@ In addition to making clean and functional web pages, I am also acquainted with 
 
 My greatest strength is the drive to always improve and learn new technologies. Being up to date with the latest trends in web development is a constant routine for me.
 
-```bash
-pip install foobar
-```
-
 ## Technologies I work with
 
 ```python
-*HTML
-*CSS
-*SASS
-*Tailwind
-*JavaScript
-*React Js
-*TypeScript
-*Next Js
-*Git, GitHub, GitLab
-*Redux
+HTML
+CSS
+SASS
+Tailwind
+JavaScript
+React Js
+TypeScript
+Next Js
+Git, GitHub, GitLab
+Redux
 ```
 
 ## Notice
