@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+## About me
 
 I am a Front-End Developer who loves designing and developing responsive and user-friendly web pages that are fast and built with the best practices. I achieve these using technologies like HTML5, CSS3, JavaScript, and CSS pre-processors like Sass.
 
@@ -8,9 +10,13 @@ In addition to making clean and functional web pages, I am also acquainted with 
 
 My greatest strength is the drive to always improve and learn new technologies. Being up to date with the latest trends in web development is a constant routine for me.
 
-I am open to Frontend opportunities for full-time.
+```bash
+pip install foobar
+```
 
-Technologies i work with
+## Technologies I work with
+
+```python
 *HTML
 *CSS
 *SASS
@@ -21,6 +27,15 @@ Technologies i work with
 *Next Js
 *Git, GitHub, GitLab
 *Redux
+```
+
+## Notice
+I am open to Frontend job opportunities.
+
+## Contact details
+Email: stephenemmanuel770@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/osemenestephen/
 
 
 <!--
