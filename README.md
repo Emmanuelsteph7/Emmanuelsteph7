@@ -23,6 +23,7 @@ TypeScript
 Next Js
 Git, GitHub, GitLab
 Redux
+Node js
 ```
 
 ## Notice
